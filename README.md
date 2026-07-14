@@ -1,5 +1,5 @@
 # MedAssist — Clinical Decision Support System (CDSS)
-
+Under Construction 
 > A system assisting healthcare professionals in medical diagnosis and treatment recommendations, analyzing patient symptoms, medical history, and test results — with decision support and patient data privacy.
 > **Stack:** Servlets · JSP · JDBC · Spring (Core + MVC + Security)
 

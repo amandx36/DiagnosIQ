@@ -1,8 +1,12 @@
 package com.example.DiagnosIQ.entity;
 
 import com.example.DiagnosIQ.enums.Role;
+import jakarta.persistence.Table;
+import lombok.Data;
 
-public class User {
+@Table
+@Data
+public class   User {
 
     private String userName;
     private String password;
