@@ -1,5 +1,7 @@
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/DiagnosIqApplication.java
+/home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/controlller/UserController.java
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/dto/request/RegisterRequest.java
+/home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/dto/response/RegisterResponse.java
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/entity/AuditLog.java
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/entity/Consultation.java
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/entity/DiagnosisSuggestion.java
@@ -16,3 +18,4 @@
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/repository/UserRepository.java
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/service/UserInterface.java
 /home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/service/impl/UserInterfaceImpl.java
+/home/N3xtharVory4x/CollageProjects/DiagnosIQ/src/main/java/com/example/DiagnosIQ/utils/SecurityConfig.java
