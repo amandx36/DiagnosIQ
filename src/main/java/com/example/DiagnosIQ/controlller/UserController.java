@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class UserController {
 
    private final UserInterface  userService;
-    @PostMapping("/register")
+        @PostMapping("/register")
     public ResponseEntity<RegisterResponse> registerUser(
             @Valid @RequestBody RegisterRequest request) {
 
